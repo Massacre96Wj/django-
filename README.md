@@ -1,5 +1,5 @@
 ### Django创建的表白以及照片墙，并利用uwsgi+nginx部署到远程服务器
-地址：[点击直达](www.father.massacre96wj.top)
+地址：[点击直达](http://www.father.massacre96wj.top/)
 
 执行命令在 **mysite.sh** 文件
 
