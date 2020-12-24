@@ -1,0 +1,28 @@
+
+*{margin: 0;padding: 0;}
+body,
+html {
+  background: url(../images/背景.gif) no-repeat;
+  background-size: 100% 100%;
+  background-attachment: fixed;
+  /* background-color: black; */
+}
+
+.perspectice{
+<!--景深 -->
+    perspective: 800px;
+}
+.wrap{
+    width: 133px;
+    height: 200px;
+    border: 1px solid cornflowerblue;
+    margin: 150px auto;
+
+    transform-style: preserve-3d;
+    transform:rotateX(-20deg) rotateY(0deg);
+}
+.wrap img{
+    position: absolute;
+    top: 0;
+
+}
